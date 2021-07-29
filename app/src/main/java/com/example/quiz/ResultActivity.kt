@@ -6,6 +6,8 @@ import android.os.Bundle
 import android.view.View
 import kotlinx.android.synthetic.main.activity_results.*
 
+//This part was a challenge for me to learn to add deprecated files if needed.
+
 class ResultActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)

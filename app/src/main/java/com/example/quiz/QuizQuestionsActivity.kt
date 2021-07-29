@@ -15,6 +15,7 @@ import kotlinx.android.synthetic.main.activity_quiz_questions.*
 
 class QuizQuestionsActivity : AppCompatActivity(), View.OnClickListener {
 
+    //Adding all variables as I go, reference here if issue
     private var mCurrentPosition: Int = 1
     private var mQuestionsList: ArrayList<Question>? = null
     private var mSelectedOptionPosition: Int = 0
